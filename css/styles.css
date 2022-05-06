@@ -817,7 +817,7 @@ img{
 .input-check:checked + .check-text::before{
     background-color: var(--accent-color);
     border: none;
-    background-image: url(/img/icon-Vector.svg);
+    background-image: url(../img/icon-Vector.svg);
     background-repeat: no-repeat;
     background-position: center;
 }
